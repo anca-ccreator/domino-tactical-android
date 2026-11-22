@@ -1,0 +1,4 @@
+plugins { id 'com.android.application' }
+android { namespace 'id.domino.tactical'; compileSdk 35
+ defaultConfig { applicationId 'id.domino.tactical'; minSdk 23; targetSdk 34; versionCode 1; versionName '0.1' }
+}
